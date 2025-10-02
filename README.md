@@ -154,7 +154,10 @@ Contributions are welcome! To get started:
 - If you add or change CLI flags or env vars, please update this README and any examples
 - If your change affects behavior, add or update tests in the relevant internal/... packages
 
-Thank you for contributing! 🙏
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+Thank you for contributing! 🙏
+
